@@ -420,6 +420,16 @@ p.price-basket{
     color: #fff;
     cursor: pointer;
 }
+@media screen and (max-width:1200px){
+ .center-block-main{
+     margin: 0 30px;
+ }
+}
+@media screen and (max-width:1050px){
+.block4-content{
+    padding: 5px;
+}
+}
 @media screen and (max-width:900px){
     .my-slider ul li h2{
         top: 150px;
