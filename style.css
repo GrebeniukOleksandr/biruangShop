@@ -393,7 +393,7 @@ p.price-basket{
 .support a:hover{
     text-decoration: underline;
 }
-.ftrmail{
+.ftr-mail{
     width: 100%;
     text-transform: uppercase;
     font-size: 0.75em;
@@ -402,7 +402,7 @@ p.price-basket{
     box-sizing: border-box;
     border: none;
 }
-.ftrtext{
+.ftr-text{
     width: 100%;
     text-transform: uppercase;
     font-size: 0.75em;
@@ -411,7 +411,7 @@ p.price-basket{
     box-sizing: border-box;
     border: none;
 }
-.ftrsubmit{
+.ftr-submit{
     text-transform: uppercase;
     font-size: 0.875em;
     border: none;
